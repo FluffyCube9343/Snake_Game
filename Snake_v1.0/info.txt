@@ -1,0 +1,5 @@
+Android SNAKE GAME v1.0
+
+controls:
+press left side: rotate counter-clockwise
+press right side: rotate clockwise
